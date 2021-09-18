@@ -1,0 +1,200 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/liu/Thesis/HDL/In-place arch/FFT4_in_place/HDL
+vfft4_top
+Z1 !s110 1631622520
+!i10b 1
+!s100 amgk8]N[@TBNLBQz8^P8A2
+ITE7WPjH0<`_lPZdcSlIZK1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1628581452
+8fft4_top.v
+Ffft4_top.v
+L0 1
+Z3 OP;L;10.6c;65
+r1
+!s85 1
+31
+!s108 1631622519.000000
+!s107 fft4_top.v|
+!s90 -reportprogress|300|-93|fft4_top.v|
+!i113 1
+o-93
+Z4 tCvgOpt 0
+vfft4_top_tb
+R1
+!i10b 1
+!s100 N74CiaDGAJ@VkULfDclP=0
+IEX9O6nK5O6S>V3]L_FMKd1
+R2
+R0
+w1628577141
+8fft4_top_tb.v
+Ffft4_top_tb.v
+L0 3
+R3
+r1
+!s85 1
+31
+Z5 !s108 1631622520.000000
+!s107 fft4_top_tb.v|
+!s90 -reportprogress|300|-93|fft4_top_tb.v|
+!i113 1
+o-93
+R4
+vmem
+R1
+!i10b 1
+!s100 oBKLA:O6gGRSaazB3c`;h3
+IOLH[9fULR^NWIL;4HFN]J0
+R2
+R0
+w1628584730
+8mem.v
+Fmem.v
+L0 1
+R3
+r1
+!s85 1
+31
+R5
+!s107 mem.v|
+!s90 -reportprogress|300|-93|mem.v|
+!i113 1
+o-93
+R4
+vmem_in_ctrl
+R1
+!i10b 1
+!s100 ?>d9IYMzfiD@>3n:<e[H<3
+IFGJYji6<9NaMI_DUe]?HL0
+R2
+R0
+w1628581197
+8mem_in_ctrl.v
+Fmem_in_ctrl.v
+L0 1
+R3
+r1
+!s85 1
+31
+R5
+!s107 mem_in_ctrl.v|
+!s90 -reportprogress|300|-93|mem_in_ctrl.v|
+!i113 1
+o-93
+R4
+vmem_out_ctrl
+R1
+!i10b 1
+!s100 I8lkLM<l3U13S^ie6SEFc0
+IG`1`k90<KODl7gGl4Lz7X2
+R2
+R0
+w1628583792
+8mem_out_ctrl.v
+Fmem_out_ctrl.v
+L0 1
+R3
+r1
+!s85 1
+31
+R5
+!s107 mem_out_ctrl.v|
+!s90 -reportprogress|300|-93|mem_out_ctrl.v|
+!i113 1
+o-93
+R4
+vmux1
+R1
+!i10b 1
+!s100 X2z0eKZIF7kofQMjORQ_M0
+IVST<cjz``A<HkS81Dm@ZV3
+R2
+R0
+w1628576369
+8mux1.v
+Fmux1.v
+L0 1
+R3
+r1
+!s85 1
+31
+R5
+!s107 mux1.v|
+!s90 -reportprogress|300|-93|mux1.v|
+!i113 1
+o-93
+R4
+vPE_btf
+Z6 !s110 1631622521
+!i10b 1
+!s100 :cHHQOHIGo?In6lDU[noA2
+IgklkI6]?A7>_dnGbNlQ::3
+R2
+R0
+w1628500071
+8PE_btf.v
+FPE_btf.v
+L0 1
+R3
+r1
+!s85 1
+31
+R5
+!s107 PE_btf.v|
+!s90 -reportprogress|300|-93|PE_btf.v|
+!i113 1
+o-93
+R4
+n@p@e_btf
+vsel_ctrl
+R6
+!i10b 1
+!s100 ]lB4>GDlJc3<<_P5EoGl<2
+I_l3WZ>4Wjb<[G>XV_MYaI3
+R2
+R0
+w1628565918
+8sel_ctrl.v
+Fsel_ctrl.v
+L0 1
+R3
+r1
+!s85 1
+31
+Z7 !s108 1631622521.000000
+!s107 sel_ctrl.v|
+!s90 -reportprogress|300|-93|sel_ctrl.v|
+!i113 1
+o-93
+R4
+vtwiddle_gen
+R6
+!i10b 1
+!s100 1a[hHHX39:m_QY1d:bg0U1
+IHIEmInH7aABm5IY?<Q[3i0
+R2
+R0
+w1628517491
+8twiddle_gen.v
+Ftwiddle_gen.v
+L0 1
+R3
+r1
+!s85 1
+31
+R7
+!s107 twiddle_gen.v|
+!s90 -reportprogress|300|-93|twiddle_gen.v|
+!i113 1
+o-93
+R4
